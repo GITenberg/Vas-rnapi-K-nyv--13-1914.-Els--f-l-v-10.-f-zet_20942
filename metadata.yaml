@@ -1,0 +1,27 @@
+_repo: Vas-rnapi-K-nyv--13-1914.-Els--f-l-v-10.-f-zet_20942
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Árkay, Kálmán
+    aliases:
+    - Kalman Arkay
+    - Kálmán Árkay
+    gutenberg_agent_id: '9621'
+    url: http://www.gutenberg.org/2009/agents/9621
+description: ''
+gutenberg_issued: '2007-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20942'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AP'
+- !lcsh 'Periodicals'
+title: Vasárnapi Könyv. 1914. Első félév 10. füzet
+url: http://www.gutenberg.org/ebooks/20942
